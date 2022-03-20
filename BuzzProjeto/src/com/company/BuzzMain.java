@@ -1,4 +1,4 @@
-//Algoritmo continuado por Kauê Andrade dos Santos
+//Algoritmo continuado por Kauê Andrade dos Santos.
 
 package com.company;
 
@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 public class BuzzMain {
     public static void main(String[] args) {
+
         Buzz buzz1 = new Buzz();
 
         Scanner leitor = new Scanner(System.in);

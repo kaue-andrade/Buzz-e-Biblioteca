@@ -32,7 +32,7 @@ public class Buzz {
         if (asas == true){
             System.out.println("\nAsas abertas, Comandante!");
             asas = false;
-        }else{
+        } else{
             System.out.println("\nAsas fechadas, Comandante!");
             asas = true;
         }
@@ -91,8 +91,8 @@ public class Buzz {
 
         if (braco == true){
 
-            System.out.println("\nGolpes de karatê!");
-        }else {
+            System.out.println("\nGolpe de karatê!");
+        } else {
             System.out.println("\nNenhum golpe foi articulado, Comandante!");
             braco = true;
         }
