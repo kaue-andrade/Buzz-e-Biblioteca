@@ -1,4 +1,4 @@
-//Algoritmo continuado por Kauê Andrade dos Santos
+//Algoritmo continuado por Kauê Andrade dos Santos.
 
 package biblioteca;
 
