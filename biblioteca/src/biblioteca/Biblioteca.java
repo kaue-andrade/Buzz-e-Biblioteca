@@ -1,13 +1,12 @@
-//Algoritmo continuado por Kauê Andrade dos Santos.
+//Algoritmo continuado por Kauê Andrade dos Santos
 
 package biblioteca;
 
 public class Biblioteca {
-
     public static void main(String[] args) {
 
         //Os autores dos respectivos livros e suas editoras foram escolhidos pelo professor.
-        
+
         Autor coelho = new Autor();
         coelho.setCodigo("123456");
         coelho.setNome("Paulo Coelho");
