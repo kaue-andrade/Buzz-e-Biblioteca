@@ -5,7 +5,7 @@ package biblioteca;
 public class Biblioteca {
     public static void main(String[] args) {
 
-        //Os autores dos respectivos livros e suas editoras foram escolhidos pelo professor.
+        //Os autores dos respectivos livros e suas editoras foram escolhidos pelo professor na aula.
 
         Autor coelho = new Autor();
         coelho.setCodigo("123456");
