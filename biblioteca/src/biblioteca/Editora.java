@@ -1,3 +1,5 @@
+//Algoritmo continuado por Kauê Andrade dos Santos.
+
 package biblioteca;
 
 public class Editora {

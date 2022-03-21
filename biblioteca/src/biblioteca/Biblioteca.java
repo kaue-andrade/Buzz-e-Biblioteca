@@ -1,8 +1,13 @@
+//Algoritmo continuado por Kauê Andrade dos Santos.
+
 package biblioteca;
 
 public class Biblioteca {
 
     public static void main(String[] args) {
+
+        //Os autores dos respectivos livros e suas editoras foram escolhidos pelo professor.
+        
         Autor coelho = new Autor();
         coelho.setCodigo("123456");
         coelho.setNome("Paulo Coelho");
@@ -38,7 +43,7 @@ public class Biblioteca {
         /System.out.println("AUTOR: "autorRecuperado.getNome());*/
 
         //Segunda forma
-        System.out.println("AUTOR: " + l2.getAutor().getNome());
+        System.out.println("AUTOR: " + l1.getAutor().getNome());
 
         //Continuem para exibir a editora...
 
