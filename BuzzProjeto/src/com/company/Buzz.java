@@ -73,7 +73,7 @@ public class Buzz {
 
     public void retrairCapacete() {
 
-        System.out.print("\nEstamos em um solo seguro, Comandante, retrair capacete (true ou false)? ");
+        System.out.print("\nEstamos em um solo seguro, Comandante! Retrair capacete (true ou false)? ");
         boolean capacete = read.nextBoolean();
 
         if (capacete == true) {
