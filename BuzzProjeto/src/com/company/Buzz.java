@@ -91,7 +91,7 @@ public class Buzz {
 
         if (braco == true){
 
-            System.out.println("\nGolpe de karatê!");
+            System.out.println("\nGolpe de karatê!"); //Golpe de karatê realmente é um golpe do brinquedo Buzz Lightyear
         } else {
             System.out.println("\nNenhum golpe foi articulado, Comandante!");
             braco = true;
