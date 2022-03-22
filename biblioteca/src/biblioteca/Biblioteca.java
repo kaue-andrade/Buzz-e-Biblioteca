@@ -82,16 +82,16 @@ public class Biblioteca {
 
         //Alterem o nome do autor para "Coelho, Paulo"
 
-        //Alteração feita na linha 69
+        //Alteração feita na linha 75
 
-        //Segunda impressão (Livro #2) com a alteração:
+        //Segunda impressão (livro #2) com a alteração:
         System.out.println("\nLivro #2 com alteração\n");
         System.out.println("TÍTULO: " + l2.getTitulo());
         System.out.println("ISBN: " + l2.getISBN());
 
         //Segunda forma
 
-        coelho.setNome("Coelho, Paulo");
+        //coelho.setNome("Coelho, Paulo"); //Já foi feita na linha 75, não é preciso.
         System.out.println("AUTOR: " + l2.getAutor().getNome());
 
         System.out.println("NOME DA EDITORA: " + exata.getNome());
